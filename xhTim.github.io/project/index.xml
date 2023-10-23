@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Xiao Huang&#39;s Homepage</title>
+    <link>https://xhtim.github.io/project/</link>
+      <atom:link href="https://xhtim.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xhtim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://xhtim.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Hadronization and Nuclear Medium Effect in Electron-Ion Collider</title>
+      <link>https://xhtim.github.io/project/internal-project/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://xhtim.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;The basic building blocks of matter are nucleons, which are composed of more fundamental quarks that are confined inside the nucleon by the exchange of gluons. However, the composition, interaction,
+and dynamic distribution of quarks and gluons within nucleons are not yet well understood. To address these fundamental scientific questions, a new generation of Electron-Ion Collider in China (EicC)
+has emerged. The primary goal of EicC is to investigate the substructures and three-dimensional tomography of nucleons and nuclei, the spin structure and mass origin of nucleons, as well as the cold
+nuclear matter effect and hadronization mechanism, especially in the region dominated by sea quarks.&lt;/p&gt;
+&lt;p&gt;EicC has a center-of-mass energy range of 15GeV to 20GeV and a high luminosity, which allows it to cover the kinematic region dominated by sea quarks and fill the gap between the EIC and JLab 12GeV experiments in US. It is the only large scientific facility in the world that mainly operates in the sea quark region and represents the mainstream direction for the future development of high-energy nuclear physics, providing an unprecedented opportunity to understand the deep structure of matter.&lt;/p&gt;
+&lt;p&gt;This project investigates the hadronization mechanism and nuclear effects using heavy quarks as probes and evaluates the experimental errors of relevant observables on EicC, exploring the feasibility of answering these fundamental questions using EicC.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao Huang | Xiao Huang&#39;s Homepage</title>
+    <link>https://xhtim.github.io/authors/xiao-huang/</link>
+      <atom:link href="https://xhtim.github.io/authors/xiao-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiao Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xhtim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiao Huang</title>
+      <link>https://xhtim.github.io/authors/xiao-huang/</link>
+    </image>
+    
+    <item>
+      <title>Projection of baryon-to-meson ratio $\Lambda^&#43;_c/D^0$ at the Polarized Electron-Ion Collider in China (Poster)</title>
+      <link>https://xhtim.github.io/talk/eiccposter/</link>
+      <pubDate>Sat, 27 May 2023 14:00:00 +0000</pubDate>
+      <guid>https://xhtim.github.io/talk/eiccposter/</guid>
+      <description>&lt;p&gt;Below is the promotional poster for the conference.
+&lt;img src=&#34;./conference.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>$\Lambda^&#43;_c/D^0$ Projection at the Polarized Electron-Ion Collider in China (Presentation)</title>
+      <link>https://xhtim.github.io/talk/eicctalk/</link>
+      <pubDate>Tue, 07 Feb 2023 16:00:00 +0000</pubDate>
+      <guid>https://xhtim.github.io/talk/eicctalk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Senjie Zhu | Xiao Huang&#39;s Homepage</title>
+    <link>https://xhtim.github.io/authors/senjie-zhu/</link>
+      <atom:link href="https://xhtim.github.io/authors/senjie-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Senjie Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xhtim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Senjie Zhu</title>
+      <link>https://xhtim.github.io/authors/senjie-zhu/</link>
+    </image>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://xhtim.github.io/publication/journal-article/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://xhtim.github.io/publication/journal-article/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projection of baryon-to-meson ratio $\Lambda^&#43;_c/D^0$ at the Polarized Electron-Ion Collider in China (Poster)</title>
+      <link>https://xhtim.github.io/talk/eiccposter/</link>
+      <pubDate>Sat, 27 May 2023 14:00:00 +0000</pubDate>
+      <guid>https://xhtim.github.io/talk/eiccposter/</guid>
+      <description>&lt;p&gt;Below is the promotional poster for the conference.
+&lt;img src=&#34;./conference.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

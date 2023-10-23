@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao Huang&#39;s Homepage</title>
+    <link>https://xhtim.github.io/authors/admin/</link>
+      <atom:link href="https://xhtim.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiao Huang&#39;s Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xhtim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiao Huang&#39;s Homepage</title>
+      <link>https://xhtim.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://xhtim.github.io/publication/journal-article/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://xhtim.github.io/publication/journal-article/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Hometown</title>
+      <link>https://xhtim.github.io/post/essay/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://xhtim.github.io/post/essay/</guid>
+      <description>&lt;p&gt;I was born in Shashi (沙市), a small city located beside the Yangtze River, where my family has resided for 12 generations since the 1670s. There, I spent the first 19 years of my life, until I went to college in an alien land.&lt;/p&gt;
+&lt;p&gt;My home was located near the river bank. I have been walking along the river, seeing the ships and docks since my childhood. As a water transportation hub beside the Yangtze River, Shashi flourished in old times. With the upstream leading to the Sichuan Basin, the downstream reaching the Yangtze River Delta, merchants and ships converged there. &lt;em&gt;&amp;ldquo;Shajin (an ancient name for Shashi), a renowned town in the Three Chu regions, is a bustling hub connecting provinces to the north and south. Merchants and traders sail to this town, their flotillas numbering in the thousands. As the sun sets, the distant flicker of lamps illuminates the town, making it appear as bright as day&amp;rdquo; (沙津为三楚名镇，通南北诸省，贾客扬帆而来者，多至数千艘，向晚蓬灯远映，照耀常若白昼)&lt;/em&gt;, a sight so enchanting that it was immortalized in the Annals of Jiangling County (江陵县志). As time passed, the bustling city gradually returned to tranquility, with only the tranquil flow of the Yangtze River remaining.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
